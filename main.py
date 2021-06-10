@@ -1,0 +1,1 @@
+exec(open('work6.py').read())
